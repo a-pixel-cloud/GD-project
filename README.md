@@ -47,7 +47,7 @@ An XP in CP surves as a __FOCUS__, whereas XP in IP functions as a __TOPIC__ of 
 ## Templates
 The existing templates *common.templates.lfg* have been utilised. An additional template for grammatical functions (GF) has been developed.
 
-## Encountered issues and further research directions
+## Remaining challenges and further research directions
 In the course of implementing the grammar, we encountered the following issues:
 
 - in the phrase-structure rules it was not feasible to unify the constituents under the common XP node. Therefore, we included NP, PP and AdvP separately in the CP root node.
@@ -80,5 +80,7 @@ It is recommended that future research implement the architecture framework for 
 10. King, Tracy Holloway. 1993. Configuring topic and focus in Russian. Doctoral dissertation. Stanford, Calif.: Stanford University.
 11. Kroeger, Paul. 2004. Analyzing syntax: a lexical-functional approach. Cambridge [u.a.]: Cambridge University Press.
 
+
+# A link to GitHub repository
 
 
