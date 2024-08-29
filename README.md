@@ -61,6 +61,7 @@ It is recommended that future research implement the architecture framework for 
 - testsuite.lfg (example sentences with English translation)
 - readme.md (.md for github)
 - common.templates.lfg (for templates)
+- common.features.lfg
 - basic-parse-tok.fst (tokenizer for parsing)
 - default-gen-tokenizer.fst
 - english.infl.patch.full.fst
