@@ -1,0 +1,43 @@
+((1) (1 0.004 12) (3 words))
+((2) (1 0.001 12) (3 words))
+((3) (1 0.001 14) (4 words))
+((4) (1 0.001 12) (3 words))
+((5) (1 0.002 14) (4 words))
+((6) (1 0.001 12) (3 words))
+((7) (1 0.001 14) (4 words))
+((8) (1 0.001 14) (4 words))
+((9) (1 0.001 16) (5 words))
+((10) (1 0.001 14) (4 words))
+((11) (1 0.001 16) (5 words))
+((12) (0 0.001 15) (5 words))
+((13) (0 0.001 20) (6 words))
+((14) (1 0.001 18) (6 words))
+((15) (0 0.001 17) (5 words))
+((16) (0 0.001 0) (4 words))
+((17) (0 0.001 0) (4 words))
+((18) (0 0.001 0) (5 words))
+
+XLE release of Sep 25, 2017 21:02.
+Grammar = /Users/Anna/Desktop/project/grammar.lfg.
+Grammar last modified on Aug 29, 2024 16:03.
+Host machine is MacBook-Air-5.
+18 sentences, 0 errors, 0 mismatches
+6 sentences had 0 parses
+12 good sentences
+12 sentences had exactly one grammatical parse
+timeout = 100
+max_xle_scratch_storage = 100 MB
+prune_subtree_location = 1
+max_new_events_per_graph_when_skimming = 500
+maximum raw subtrees per sentence = 32 (#14)
+maximum event count per sentence = 874
+average event count per graph = 43.982
+tokens = 9.8%, morph = 6.3%, multiword = 0.2%, lex = 11.9%, chart = 37.1%,
+unifier = 29.2%, completer = 2.4%, solver = 3.1%, output = 0.0%
+max_alloc_mem = 100.80 MB
+0.024 CPU secs total, 0.004 CPU secs max
+elapsed time = 0 seconds
+  range parsed failed  words   seconds  subtrees     optimal
+   1-10     12      6   4.00     0.001     14.00        1.00
+    all     12      6   4.00     0.001     14.00        1.00
+0.16 of the variance in seconds is explained by the number of subtrees
