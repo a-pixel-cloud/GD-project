@@ -61,10 +61,17 @@ It is recommended that future research implement the architecture framework for 
 - testsuite.lfg (example sentences with English translation)
 - readme.md (.md for github)
 - common.templates.lfg (for templates)
-- common.features.lfg
 - basic-parse-tok.fst (tokenizer for parsing)
 - default-gen-tokenizer.fst
 - english.infl.patch.full.fst
+
+  ## Files to ignore
+- .DS Store (a file generated automatically after uploading the files via the command line)
+- .gitignore! (the disturbing .DS Store file was added here)
+  
+
+# A link to GitHub repository
+https://github.com/a-pixel-cloud/GD-project.git
 
 
 # References
@@ -80,8 +87,5 @@ It is recommended that future research implement the architecture framework for 
 10. King, Tracy Holloway. 1993. Configuring topic and focus in Russian. Doctoral dissertation. Stanford, Calif.: Stanford University.
 11. Kroeger, Paul. 2004. Analyzing syntax: a lexical-functional approach. Cambridge [u.a.]: Cambridge University Press.
 
-
-# A link to GitHub repository
-https://github.com/a-pixel-cloud/GD-project.git
 
 
